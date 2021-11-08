@@ -1,0 +1,6 @@
+Yakubovich 234578 2112422589 1977 4 false false true 3 NewLife 8
+Millic 347258 2258112429 1975 3 true false true 3 mull 8
+Young 234758 5812212429 2011 3 true false true 3 mull 8
+Ill 234578 2112422589 1977 4 false true true 2 mull 8
+Kubovich 273458 1124222589 1987 4 false false true 2 RichLife 2
+Ovich 245738 1812422259 1989 4 false false true 3 RichLife 2
